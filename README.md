@@ -19,22 +19,26 @@ Welcome to the JC ART gallery website! This React application showcases beautifu
 To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/konprtk/artwork-mini-project.git
    ```
 
 2. **Navigate to the project directory**:
+
    ```bash
    cd artwork-mini-project
    ```
 
 3. **Install dependencies**:
    Make sure you have [Node.js](https://nodejs.org/) installed. Then run:
+
    ```bash
    npm install
    ```
 
 4. **Run the application**:
+
    ```bash
    npm start
    ```
@@ -43,7 +47,7 @@ To get a local copy up and running, follow these steps:
 
 ## Project Structure
 
-```
+```bash
 jc-art/
 ├── src/
 │   ├── components/
