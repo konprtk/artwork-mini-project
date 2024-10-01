@@ -4,7 +4,6 @@ Welcome to the JC ART gallery website! This React application showcases beautifu
 
 ## Features
 
-- **Responsive Navbar**: A sticky navigation bar that allows easy access to different sections.
 - **Home Section**: A welcoming introduction to JC ART.
 - **Gallery Section**: Displays artworks in two rows for better organization.
 
